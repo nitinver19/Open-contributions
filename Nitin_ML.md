@@ -3,6 +3,7 @@
 * Decision Trees
 * Random Forests
 * Cross Validation and Univariate Feature Analysis 
+* Supervised and Unsupervised ML
 * Ensmeble Leaning Methods
 * Clustering
 * Support Vector Machines
